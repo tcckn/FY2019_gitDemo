@@ -5,4 +5,7 @@ public class Main {
     }
     
     // テスト用の変更
+    public String testMethod() {
+        return "テストメソッド";
+    }
 }
